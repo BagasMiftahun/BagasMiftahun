@@ -1,4 +1,3 @@
-[![Bagas Miftahun](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 <h1 align="center">Hi 👋, I'm Bagas Miftahun</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
