@@ -3,7 +3,7 @@
 #### A Full-Stack Developer by day ☼ and a Content Creator by night ☾
 
 Full-Stack Developer at [Techarea](https://techarea.co.id/);<br>
-Host/Organizing [Bagzcode](https://www.instagram.com/bagzcode/);<br>
+Host/Organizing [bgazmn](https://www.instagram.com/bgazmn/);<br>
 
 <!--
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
